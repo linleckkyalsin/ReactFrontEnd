@@ -12,3 +12,8 @@ Oracale OpenJDK version 18.0.1
 -student repository には　すべての　学生のデータを　セレクトします。
 -student controller API から　リクエストの処理,student service から　機能　を使います。
 -student service には　CRUD　の　機能　をかきます。
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
